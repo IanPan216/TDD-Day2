@@ -1,0 +1,5 @@
+c:\users\heng\documents\visual studio 2015\Projects\ShoppingCar\ShoppingCar\bin\Debug\ShoppingCar.dll
+c:\users\heng\documents\visual studio 2015\Projects\ShoppingCar\ShoppingCar\bin\Debug\ShoppingCar.pdb
+c:\users\heng\documents\visual studio 2015\Projects\ShoppingCar\ShoppingCar\obj\Debug\ShoppingCar.csprojResolveAssemblyReference.cache
+c:\users\heng\documents\visual studio 2015\Projects\ShoppingCar\ShoppingCar\obj\Debug\ShoppingCar.dll
+c:\users\heng\documents\visual studio 2015\Projects\ShoppingCar\ShoppingCar\obj\Debug\ShoppingCar.pdb
