@@ -22,5 +22,22 @@ namespace ShoppingCarTest
             //assert
             Assert.AreEqual(excepted, actual);
         }
+
+        private object GetGoods()
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    internal class ShoppingList
+    {
+        public ShoppingList()
+        {
+        }
+
+        internal object GetTotalAmount(object goods)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
